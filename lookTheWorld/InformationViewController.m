@@ -35,6 +35,7 @@
     inforDetailVC.model = model;
     inforDetailVC.hidesBottomBarWhenPushed = YES;
     [self.navigationController pushViewController:inforDetailVC animated:YES];
+    //wwwwwwwwwwwwwwwwww;
 }
 - (NSString *)composeRequestUrl {
     return [NSString stringWithFormat:kInformation,self.offset];
