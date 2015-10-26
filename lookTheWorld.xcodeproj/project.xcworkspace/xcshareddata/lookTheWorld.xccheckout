@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>938E8AD7-B7CB-4635-8596-8BDE409A29D4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>lookTheWorld</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>575E1A4BFF9EF761363B22B4FC9B3C64AD0F3000</key>
+		<string>https://github.com/miaojunyan/lookTheWorld.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>lookTheWorld.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>575E1A4BFF9EF761363B22B4FC9B3C64AD0F3000</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/miaojunyan/lookTheWorld.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>575E1A4BFF9EF761363B22B4FC9B3C64AD0F3000</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>575E1A4BFF9EF761363B22B4FC9B3C64AD0F3000</string>
+			<key>IDESourceControlWCCName</key>
+			<string>lookTheWorld</string>
+		</dict>
+	</array>
+</dict>
+</plist>
